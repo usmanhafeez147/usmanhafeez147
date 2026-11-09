@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanhafeez147/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Q%26A-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6328618/usman-hafeez)
 [![Upwork](https://img.shields.io/badge/Upwork-Freelance-teal?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01653fe16c02cc7163)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/usmanhafeez147)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Usmanhafeez147/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanhafeez147@gmail.com)
 
