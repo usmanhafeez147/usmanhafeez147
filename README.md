@@ -3,6 +3,7 @@
 
 📍 Faisalabad, Pakistan  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-usmanhafeez147.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://usmanhafeez147.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanhafeez147/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Q%26A-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6328618/usman-hafeez)
 [![Upwork](https://img.shields.io/badge/Upwork-Freelance-teal?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01653fe16c02cc7163)
@@ -31,7 +32,7 @@ Currently working on **Agentic AI systems and LLM-powered applications**, integr
 - 👯 **Open to collaborate on** AI agent systems, multi-agent frameworks, and full-stack fintech applications  
 - 🤖 **Exploring deeply** production-grade LLM systems, AI scaling, and Kubernetes-based AI workloads  
 - 💬 **Ask me about** DevOps, Microservices, Cloud Architecture, LangChain/LangGraph, OpenAI SDK, MCP, AI Engineering stacks  
-- 📫 **Reach me at** [usmanhafeez147@gmail.com](mailto:usmanhafeez147@gmail.com) | +92 343 185 4867  
+- 📫 **Reach me at** [usmanhafeez147@gmail.com](mailto:usmanhafeez147@gmail.com) | +92 343 185 4867   | [usmanhafeez147.vercel.app](https://usmanhafeez147.vercel.app/)
 
 ---
 
