@@ -25,6 +25,14 @@ Currently working on **Agentic AI systems and LLM-powered applications**, integr
 
 ---
 
+## 🎓 Certifications
+
+- [Responsive Web Design](https://www.freecodecamp.org/certification/usmanhafeez147/responsive-web-design-v9), freeCodeCamp, November 2026
+- [Back End Development and APIs](https://www.freecodecamp.org/certification/usmanhafeez147/back-end-development-and-apis-v9), freeCodeCamp, November 2026
+- [JavaScript](https://www.freecodecamp.org/certification/usmanhafeez147/javascript-v9), freeCodeCamp, November 2026
+
+---
+
 ## 🚀 About Me
 
 - 🔭 **Currently working on** Agentic AI systems, LangChain/LangGraph workflows, and MCP-powered applications  
