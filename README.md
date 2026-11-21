@@ -27,6 +27,7 @@ Currently working on **Agentic AI systems and LLM-powered applications**, integr
 
 ## 🎓 Certifications
 
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/usmanhafeez147/front-end-development-libraries-v9), freeCodeCamp, November 2026
 - [Responsive Web Design](https://www.freecodecamp.org/certification/usmanhafeez147/responsive-web-design-v9), freeCodeCamp, November 2026
 - [Back End Development and APIs](https://www.freecodecamp.org/certification/usmanhafeez147/back-end-development-and-apis-v9), freeCodeCamp, November 2026
 - [JavaScript](https://www.freecodecamp.org/certification/usmanhafeez147/javascript-v9), freeCodeCamp, November 2026
